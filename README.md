@@ -1,4 +1,3 @@
-# arshmalik
 # Arsh Malik — AI / Data Science
 
 Computer Science student at The NorthCap University (2022–2026), focused on **Data Science, Machine Learning, NLP, and LLMs**.
@@ -23,7 +22,7 @@ You are a data analyst. Given the following CSV data, identify the top 3 signals
 predicting customer churn. Return your answer as a JSON object only, no explanation.
 ```
 
-📊 ** Infographic:** [View on Canva →]([[PASTE_YOUR_CANVA_LINK_HERE](https://canva.link/8gpu3lqn43nea9h)](https://canva.link/8gpu3lqn43nea9h))
+📊 **LLM Infographic:** [View on Canva →]([PASTE_YOUR_CANVA_LINK_HERE](https://canva.link/y8r64zjm3bp62qf))
 
 ---
 
@@ -31,22 +30,27 @@ predicting customer churn. Return your answer as a JSON object only, no explanat
 
 ### 📉 Stock Market Forecasting (ARIMA & LSTM)
 - Compared statistical (ARIMA) and deep learning (LSTM) approaches to forecast stock prices
-- Analysed volatility, trends, and seasonality on real market data
+- Analysed volatility, trends, and seasonality on real AAPL market data
 - **Impact:** Strong understanding of financial time series and forecasting pipelines
+- 🔗 [View Notebook →](https://github.com/arsh76p/stock-market-forecasting)
 
 ### 👥 Customer Churn Prediction
-- Built Logistic Regression and Random Forest classifiers
+- Built Logistic Regression and Random Forest classifiers on Telco Customer Churn dataset
 - Feature engineering, EDA, and evaluation using Accuracy, Precision, Recall, ROC-AUC
-- **Impact:** Identified key factors influencing customer retention
+- **Impact:** Identified key factors — tenure, contract type, monthly charges — driving churn
+- 🔗 [View Notebook →](https://github.com/arsh76p/customer-churn-prediction)
 
 ### 📦 Sales Forecasting (Time Series)
-- Applied ARIMA and LSTM to historical sales data
-- Visualised outputs to support inventory optimisation decisions
+- Applied ARIMA and LSTM to Superstore monthly sales data
+- Decomposed trend and seasonality; visualised outputs for inventory planning
+- **Impact:** Applied ML to real business decision-making
+- 🔗 [View Notebook →](https://github.com/arsh76p/sales-forecasting)
 
 ### 💬 Sentiment Analysis (NLP)
-- Performed sentiment classification on Twitter data using NLTK
-- Text preprocessing, tokenisation, and classification pipeline
-- Visualised sentiment trends over time
+- Classified Twitter airline sentiment (positive / neutral / negative) using NLTK + TF-IDF
+- Text preprocessing pipeline: cleaning, tokenisation, lemmatization, stopword removal
+- **Impact:** Practical NLP pipeline from raw text to classification
+- 🔗 [View Notebook →](https://github.com/arsh76p/sentiment-analysis-nlp)
 
 ---
 
